@@ -1,0 +1,9 @@
+.nav-container {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+.link-card {
+  margin-right: 10px;
+}
